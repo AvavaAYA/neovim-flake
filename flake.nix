@@ -1,5 +1,5 @@
 {
-  description = "Neovim Flake by Casey Fryer";
+  description = "Neovim Flake, following Casey Fryer's config by eastxuelian";
 
   inputs = {
     nixpkgs.url = github:nixos/nixpkgs/nixos-unstable;
